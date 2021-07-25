@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cask0079.github.io</id>
     <title>嘘</title>
-    <updated>2021-07-25T17:17:32.446Z</updated>
+    <updated>2021-07-25T17:18:45.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cask0079.github.io"/>
     <link rel="self" href="https://cask0079.github.io/atom.xml"/>
@@ -22,12 +22,6 @@
 <title>Untitled</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="style.css">
-<div id="controls" class="buttons">
-          <a id="rewind" title="Restart story from beginning">restart</a>
-          <a id="save" title="Save progress">save</a>
-          <a id="reload" title="Reload from save point">load</a>
-          <a id="theme-switch" title="Switch theme">theme</a>
-</div>
 <div id="story" class="container">
             <div class="header">
                 <h1>Untitled</h1>
