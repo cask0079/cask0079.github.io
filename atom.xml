@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cask0079.github.io</id>
     <title>嘘</title>
-    <updated>2021-07-25T16:52:25.484Z</updated>
+    <updated>2021-07-25T17:01:44.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cask0079.github.io"/>
     <link rel="self" href="https://cask0079.github.io/atom.xml"/>
@@ -11,6 +11,23 @@
     <logo>https://cask0079.github.io/images/avatar.png</logo>
     <icon>https://cask0079.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 嘘</rights>
+    <entry>
+        <title type="html"><![CDATA[一个尝试]]></title>
+        <id>https://cask0079.github.io/post/yi-ge-chang-shi/</id>
+        <link href="https://cask0079.github.io/post/yi-ge-chang-shi/">
+        </link>
+        <updated>2021-07-25T16:56:20.000Z</updated>
+        <content type="html"><![CDATA[<link rel="stylesheet" href="style.css">
+<div id="story" class="container">
+            <div class="header">
+                <h1>Untitled</h1>
+                <h2 class="byline"></h2>
+            </div>
+</div>
+<script src="ink.js"></script>
+<script src="Untitled.js"></script>
+<script src="main.js"></script>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【约策】躺下，我们来谈谈]]></title>
         <id>https://cask0079.github.io/post/yue-ce-tang-xia-wo-men-lai-tan-tan/</id>
