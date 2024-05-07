@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cask0079.github.io</id>
     <title>嘘</title>
-    <updated>2024-05-07T17:09:41.510Z</updated>
+    <updated>2024-05-07T17:26:12.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cask0079.github.io"/>
     <link rel="self" href="https://cask0079.github.io/atom.xml"/>
@@ -29,6 +29,8 @@ alert("祝食用愉快～")
 }
 </script><!--下面添加你要显示的内容或者代码-->
 <figure data-type="image" tabindex="1"><img src="https://cask0079.github.io/post-images/1712395424832.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://cask0079.github.io/post-images/1715102713398.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://cask0079.github.io/post-images/1715102739940.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
